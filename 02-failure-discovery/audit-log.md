@@ -1,11 +1,4 @@
-# Ascend IQ Failure Audit
 
-Paste the markdown from the Module 2 Lab Guide (Activity 1) over this file, or upload the downloaded `audit-log.md` in its place, then commit.
-
-_Summary line goes here._
-
-| Query | Judge score | Human override | Trust Metric tag | Failure reason |
-|---|---|---|---|---|
 # Ascend IQ Failure Audit
 
 11 confirmed failures: #HALLUCINATION ×9, #UX_TRUST ×1, #ROBUSTNESS ×1, #FAIRNESS ×0. I changed 0 of the judge’s calls.
