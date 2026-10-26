@@ -14,7 +14,11 @@ Paste the reply from the Module 3 Lab Guide (Activity 2) over this file once you
 
 **Engineering · acceptance criteria:**
 Score only questions that compare us with a named competitor. An answer passes (1) only when every sentence mentioning the competitor contains a number and a named source, and the judge, given the question, answer and reference, confirms that the answer names the same product as faster as the reference does and states the gap consistently. Any other result is a fail (0), and a single 0 blocks the release.
+
+
 **Design · what the user sees:**
 When the check blocks an answer, the user sees no comparison claim. Instead they see the sourced figures for both products exactly as the reference states them (e.g., “Per Tech Specs: Us 500 req/min · Competitor Z 1,000 req/min”), or “I don’t have verified figures for Competitor Z on this” when no source exists.
+
+
 **Leadership · risk and return:**
 This removes the risk that a VP repeats a reversed competitor benchmark to a prospect or the board: a public, checkable mistake that puts the $50k/year renewal at risk. The cost is a judge call on competitor-comparison questions only, plus a weekly analyst review, which is small next to one lost renewal.
